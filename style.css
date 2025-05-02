@@ -1,0 +1,23 @@
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 50%;
+    background-color: lightblue;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    border-radius: 10px;
+  }
+  
+  /* SVG shape styling */
+  .shape {
+    stroke: green;
+    fill: none;
+    stroke-width: 2;
+  }
+  
